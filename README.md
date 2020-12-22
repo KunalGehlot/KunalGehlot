@@ -2,7 +2,7 @@
 
 <span></span>|<span></span>
 :--|--:
-I am a Computer Science Engineering Student. I am from Jodhpur, India and currently looking for an opportunity as Machine Learning/ Data Science Position.|<img align="right" width="200" src="https://raw.githubusercontent.com/KunalGehlot/KunalGehlot/master/giphy.webp">
+I am a Computer Science Engineering Student 👨‍🎓<br> I am from Jodhpur, India 📍 and currently looking for opportunities in Machine Learning/ Data Science Positions. 👨‍💻 👨‍🔬 |<img align="right" width="400" src="https://raw.githubusercontent.com/KunalGehlot/KunalGehlot/master/giphy.webp">
 Oh! and I **Love Programming!**|A completely legit GIF of me while programming.
 
 <!-- I am a Computer Science Engineering Student. I am from Jodhpur, India and currently looking for an opportunity as Machine Learning/ Data Science Position.
@@ -13,6 +13,7 @@ Oh! and I **Love Programming!**|A completely legit GIF of me while programming.
 <!-- <span align="right" style="float:right; right:0;">A completely real GIF<br> of me while programming.</span>
 -->
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,3 +22,4 @@ Oh! and I **Love Programming!**|A completely legit GIF of me while programming.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
