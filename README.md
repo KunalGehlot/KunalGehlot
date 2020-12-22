@@ -1,9 +1,17 @@
-### Hi there 👋
+# Hi, I'm Kunal Gehlot <img src="https://raw.githubusercontent.com/KunalGehlot/KunalGehlot/master/wave.gif" width="30px">
 
-<!--
-**KunalGehlot/KunalGehlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span></span>|<span></span>
+:--|--:
+I am a Computer Science Engineering Student. I am from Jodhpur, India and currently looking for an opportunity as Machine Learning/ Data Science Position.|<img align="right" width="200" src="https://raw.githubusercontent.com/KunalGehlot/KunalGehlot/master/giphy.webp">
+Oh! and I **Love Programming!**|A completely legit GIF of me while programming.
 
-Here are some ideas to get you started:
+<!-- I am a Computer Science Engineering Student. I am from Jodhpur, India and currently looking for an opportunity as Machine Learning/ Data Science Position.
+
+<!-- Oh! and I **Love Programming!**
+
+<!-- <img align="right" width="200" height="200" src="https://raw.githubusercontent.com/KunalGehlot/KunalGehlot/master/giphy.webp">
+<!-- <span align="right" style="float:right; right:0;">A completely real GIF<br> of me while programming.</span>
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
