@@ -27,7 +27,7 @@ REST API • Object-Oriented Programming • Test-Driven Development • Agile D
 - AI Nanodegree, Udacity (Mar 2020 - May 2020)
 
 ## 📈 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalgehlot&show_icons=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KunalGehlot&show_icons=true&theme=dark" />
 
 ## 💼 Work Experience
 - Software Engineer at Health Vectors (May 2021 - Present)
