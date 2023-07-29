@@ -1,38 +1,11 @@
-# Hi, I'm Kunal Gehlot 👋 <img src="https://raw.githubusercontent.com/KunalGehlot/KunalGehlot/master/wave.gif" width="30px">
+Exciting changes are on the horizon as I prepare to embark on a transformative journey at RWTH Aachen Business School. Starting on 1st October 2023, I'll be pursuing their prestigious Full Time MBA in Digitalisation and Industrial Change program, combining my passion for Software Engineering with a background in Computer Science Engineering. As part of my preparation, I have been diligently learning German, with the goal of building a career in Germany.
 
-| | |
-|:--:|:--:|
-|🎓 B. Tech '21 - CSE <br>👨‍💻 Software Engineer at Health Vectors <br>🇮🇳 India <br>☕️ [Buy me a coffee](https://ko-fi.com/zackcodesai)|<img align="right" width="400" src="https://raw.githubusercontent.com/KunalGehlot/KunalGehlot/master/giphy.webp">
-|**🔥 Passionate about Programming!**| A completely legit GIF of me while programming 😎|
+I firmly believe that this program, with its cutting-edge curriculum, renowned faculty, and emphasis on real-world applications, will sharpen my skills and strategic acumen, preparing me to lead effectively in the dynamic landscape of digitalization and industrial change.
 
-## 🛠️ Skills & Technologies
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=fff&color=edf2f4&labelColor=2b2d42)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=fff&color=edf2f4&labelColor=2b2d42)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=fff&color=edf2f4&labelColor=2b2d42)
+As an accomplished Data Science Software Engineer at Health Vectors, I have amassed over a year of experience in developing cutting-edge solutions, including an innovative system for processing PDF medical records and generating Smart Health Reports. With a Bachelor's degree in Computer Science and Engineering, I am deeply passionate about harnessing the power of Python to delve further into the realm of Data Science.
 
-### Backend Frameworks
-Django • Flask • FastAPI
+My technical prowess is complemented by strong communication, leadership, and interpersonal skills, which have enabled me to excel in team environments and effectively convey complex ideas.
 
-### Database Technologies
-MySQL • PostgreSQL • MongoDB
+My aspiration is to leverage the knowledge and expertise gained from the MBA program, along with my growing linguistic abilities in German, to significantly contribute to Germany's technological advancements. Combining my software engineering and data science background with business acumen from the MBA, I aim to play a pivotal role in fostering innovation and driving technological growth in Germany. The country's reputation as a hub for technological excellence and innovation makes it an ideal place to work and contribute to transformative changes in the digital landscape.
 
-### Developer Tools
-Git • Docker • Kubernetes • VS Code • PyCharm
-
-### Other Skills
-REST API • Object-Oriented Programming • Test-Driven Development • Agile Development • Azure Services • Linux Administration • GraphQL
-
-## 🎓 Education
-- B.Tech. in Computer Science, Rajasthan Technical University (2017 - 2021)
-- AI Nanodegree, Udacity (Mar 2020 - May 2020)
-
-## 📈 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KunalGehlot&show_icons=true&theme=dark" />
-
-## 💼 Work Experience
-- Software Engineer at Health Vectors (May 2021 - Present)
-- Business Analyst at 3 Edge Technovision (Oct 2020 – Mar 2021)
-- ML and IoT Intern at Panda Projects (Jun 2019 – Jul 2019)
-
-## 🌐 Connect with me
-[Github](https://github.com/KunalGehlot) • [LinkedIn](https://www.linkedin.com/in/gehlotk) • [StackOverflow](https://stackoverflow.com/users/8303764/kunal-gehlot)
+I am excited to immerse myself in Germany's dynamic business environment and create a meaningful impact. Through determination, hard work, and a passion for continuous learning, I am confident that my journey at RWTH Aachen will be a stepping stone toward fulfilling my goals and aspirations in the field of digitalization and industrial change.
